@@ -75,6 +75,7 @@ a:active{color:#333;}
 #lang a.en{}
 #lang a.fr{}
 #lang a.es{}
+#lang a.de{}
 
 /* layout buttons */
 #layout{display:flex;}
